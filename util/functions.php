@@ -1,5 +1,5 @@
 <?php
-/* Copyright (c) 2023 Daniel C & Collin Chiu, All rights reserved */
+// Copyright (c) 2023 Daniel C & Collin Chiu, All rights reserved 
 // checks if a user is logged in and returns user data if so
 function check_login($conn)
 {
